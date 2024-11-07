@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm SARAN D</h1>
 <h3 align="center">A passionate data scientist from India</h3>
@@ -14,9 +13,9 @@
 
 - 💬 Ask me about **Data**
 
-- 📫 How to reach me [mail_id](**dspsaran95@gmail.com**)
+- 📫 How to reach me [mail_id](dspsaran95@gmail.com)
 
-- 📄 Know about my experiences [ My_Resume 📄](https://drive.google.com/file/d/1QhRJqTLN86L4I5Ug96O6b5nbLWsdbiLQ/view?usp=drive_link)
+- 📄 Know about my experiences [ My_Resume 📄](https://drive.google.com/file/d/1QhRJqTLN86L4I5Ug96O6b5nbLWsdbiLQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
